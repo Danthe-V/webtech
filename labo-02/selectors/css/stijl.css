@@ -34,17 +34,26 @@ h2 ~ p {
 }
 
 /* 5. elk oneven item in de lijst met openingsuren -> background-color: #f1e9dc; */
-
+.uren li:nth-child(odd) {
+      background-color: #f1e9dc;
+}
 
 /* 6. het laatste item in de lijst met openingsuren -> color: crimson; */
-
+.uren li:last-child {
+      color: crimson;
+}
 
 /* 7. de slogan en de intro tegelijk, in één regel -> color: darkslateblue; */
+h1, .slogan {
+      color: darkslateblue;
+}
 
 
 /* 8. elke link in main wanneer de muis erover gaat OF wanneer ze focus heeft
       -> background-color: yellow; */
-
+nav a:hover, nav a:focus {
+      background-color: yellow;
+}
 
 
 /* ---- Lezen: welke elementen raken deze vijf selectors? Schrijf het antwoord
