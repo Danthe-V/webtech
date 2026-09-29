@@ -33,12 +33,12 @@ Bij welke vraag zat je fout, en wat was de reden? (Alles juist? Welke vraag duur
 
 ## 4. De nabouw
 
-- Welke selector koos je voor de links in de navigatie, en waarom geen class?
-- Welke regel kostte je het meeste tijd, en wat was uiteindelijk de oorzaak?
+- Welke selector koos je voor de links in de navigatie, en waarom geen class? li a omdat het de enige links in een lijst waren
+- Welke regel kostte je het meeste tijd, en wat was uiteindelijk de oorzaak? de titel vanwege het font de groote in the schatten en de font weight
 
 ## 6. Je site
 
-- Welke drie waarden staan in je tokenblok, en waarom die?
+- Welke drie waarden staan in je tokenblok, en waarom die? 
 - Wat verandert er in je site als je één token wijzigt?
 
 ## Thuis: R2.3 (met AI)
