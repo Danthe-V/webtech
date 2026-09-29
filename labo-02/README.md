@@ -17,19 +17,19 @@ Welke elementen raakt elke selector? Eén zin per selector.
 Vul de eerste twee kolommen in vóór je de pagina opent. Trede: herkomst, specificiteit, volgorde of overerving (of iets anders, benoem het).
 
 | vraag | mijn voorspelling (kleur) | beslissende trede | uitkomst in de browser | juist? |
-|---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
-| 5 | | | | |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
-| 9 | | | | |
-| 10 | | | | |
+|-------|---------------------------|-------------------|------------------------|--------|
+| 1 |groen|herkomst|groen|ja|
+| 2 |blauw|volgorde|blauw|ja|
+| 3 |rood|specificiteit|rood|ja|
+| 4 |rood|specificiteit|rood|ja|
+| 5 |Blauw|volgorde|Blauw|ja|
+| 6 |blauw|specificiteit|blauw|ja|
+| 7 |rood|overerving|rood|ja|
+| 8 |blauw|volgorde|blauw|ja|
+| 9 |rood|!important tag|rood|ja|
+| 10 |groen|fout teken bij kleur naar blauw proberen zetten|groen|ja|
 
-Bij welke vraag zat je fout, en wat was de reden? (Alles juist? Welke vraag duurde het langst, en waarom?)
+Bij welke vraag zat je fout, en wat was de reden? (Alles juist? Welke vraag duurde het langst, en waarom?) ik ben niet compleet zeker of bij alle vragen de beslissende trede juist is maar ik heb overal wel gemakkelijk de juiste kleur gevonden
 
 ## 4. De nabouw
 
