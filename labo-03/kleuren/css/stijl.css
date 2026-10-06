@@ -6,3 +6,45 @@
 }
 
 /* === your rules === */
+body {
+    width: 100vw;
+    height: 200vh;
+}
+h2 {
+    font-size: 1rem;
+    padding: 1rem;
+    color: white;
+}
+span {
+    font-size: 0.75rem;
+    padding: 1rem;
+    color: white;
+}
+ul {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+li {
+    list-style-type: none;
+    width: 100vw;
+    height: 40vh;
+    padding: 10vmax;
+    padding-bottom: 10vmax;
+    text-align: center;
+}
+.tomato {   
+    background-color: #FF6347;
+}
+.orangered {
+    background-color: #FF4500;
+}   
+.coral {
+    background-color: #FF7F50;
+}
+.lightsalmon {
+    background-color: #FFA07A;
+}
+.darkorange {
+    background-color: #FF8C00;
+}
