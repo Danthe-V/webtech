@@ -4,5 +4,32 @@
 :root {
 
 }
-
+body {
+}
 /* === your rules === */
+main {
+    margin: 5vh;
+    border: 0.75rem solid black;
+    height: 90vh;
+    width: 90vh;
+    align-content: center;
+    background-color: #ec4b03;
+}
+div {
+    border: 0.75rem solid black;
+    height: 70%;
+    width: 70%;
+    margin: 15%;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #b99ec1;
+}
+h1 {
+    width: 90%;
+    height: 90%;
+    border: 0.75rem solid black;
+    margin: -7%;
+    text-align: center;
+    padding: 25vh;
+    background-color: #f9b700;
+}
